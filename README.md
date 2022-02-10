@@ -1,2 +1,2 @@
-# Dio - desafio repositorio Git GitHub 
+# Dio - Desafio repositório Git GitHub 
 Desafio Git/GitHub
